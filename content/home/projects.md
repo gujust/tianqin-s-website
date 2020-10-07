@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "个人项目"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,21 +22,17 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "全部"
+    name = "All"
     tag = "*"
   
   [[content.filter_button]]
-    name = "竞赛项目"
-    tag = "contest"
+    name = "Deep Learning"
+    tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "科研项目"
-    tag = "academic"
+    name = "Other"
+    tag = "Demo"
 
-  [[content.filter_button]]
-    name = "科研论文"
-    tag = "essay"
-    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
