@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: 主页slide
+title: 欢迎来到顾天钦的主页
 subtitle:
 
 design:
