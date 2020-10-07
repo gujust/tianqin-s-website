@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: 个人经历
 subtitle:
 
 # Date format
@@ -25,17 +25,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
-  company_url: ""
-  date_end: ""
-  date_start: "2017-01-01"
+- company: 宁波大学
+  company_url: "http://www.nbu.edu.cn/"
+  date_end: "2022-06-30"
+  date_start: "2019-09-01"
   description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
+    GPA：4.02/5（共27学分）
+    学业导师：庞菊爱（宁波大学人文与传媒学院副教授）
+    校外导师：黄丽媛（清博大数据副总裁）
+  location: 浙江·宁波
+  title: 硕士研究生
 - company: University X
   company_url: ""
   date_end: "2016-12-31"
