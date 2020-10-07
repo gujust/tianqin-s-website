@@ -25,7 +25,8 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["150px", "0", "150px", "0"]
+    padding: ["170px", "0", "170px", "0"]
+    #这是下面文字的边框宽度设置
 ---
 
 欢迎来到**顾天钦的主页** 。
