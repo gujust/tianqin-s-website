@@ -37,8 +37,8 @@ experience:
   title: 硕士研究生
 - company: 上海第二工业大学
   company_url: "http://www.sspu.edu.cn/"
-  date_end: "2015-10-01"
-  date_start: "2019-06-30"
+  date_end: "2019-06-30"
+  date_start: "2015-09-01"
   description: |-
     * 主修课程：公共关系学，政治学理论，管理学，公共关系实务与案例，危机管理，整合营销传播，新媒体信息编辑等
     * GPA：4.1/5（共133学分），专业排名第一
@@ -47,8 +47,8 @@ experience:
   title: 本科生
 - company: 中国人民解放军73151部队
   company_url: ""
-  date_end: "2013-09-01"
-  date_start: "2015-09-01"
+  date_end: "2015-09-01"
+  date_start: "2013-09-01"
   description: |-
     * 入选并参与军委级重大演习一项，军区级演习两项
     * 担任战士时因日常表现优秀，先后获得优秀士兵和优秀共青团员
