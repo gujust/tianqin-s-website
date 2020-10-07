@@ -28,7 +28,7 @@ item:
 - certificate_url: media/debate.jpg
   date_end: ""
   date_start: "2019-05-29"
-  description: 省部级专业竞赛
+  description: 省部级奖项
   organization: 上海市公共关系协会；上海市教育委员会；共青团上海市委员会
   organization_url: 
   title: 2018年度上海高校公共关系学专业学生团体辩论赛第一名
@@ -36,7 +36,7 @@ item:
 - certificate_url: media/6th3rd.jpg
   date_end: ""
   date_start: "2017-09-05"
-  description: 国家级专业竞赛
+  description: 国家级奖项
   organization: 中国大学生公共关系策划创业大赛组委会
   organization_url: http://cusprpc2017.cipra.org.cn/
   title: 第六届中国大学生公共关系策划创业大赛三等奖
@@ -44,7 +44,7 @@ item:
 - certificate_url: media/7th1st.jpg
   date_end: ""
   date_start: "2019-09-22"
-  description: 国家级专业竞赛
+  description: 国家级奖项
   organization: 中国大学生公共关系策划创业大赛组委会
   organization_url: http://cusprpc2019.cipra.org.cn/
   title: 第七届中国大学生公共关系策划创业大赛一等奖
@@ -52,10 +52,33 @@ item:
 - certificate_url: media/specialprize.jpg
   date_end: ""
   date_start: "2018-06-14"
-  description: 省部级专业竞赛
+  description: 省部级奖项
   organization: 上海市公共关系协会；上海市教育委员会；共青团上海市委员会
   organization_url: 
   title: 2017年度上海高校公共关系学专业专项奖学金特等奖
   url: ""
-  
+- certificate_url: media/scholarship.jpg
+  date_end: ""
+  date_start: "2018-12-14"
+  description: 省部级奖项
+  organization: 上海市教育委员会
+  organization_url: 
+  title: 2017-2018学年上海市奖学金
+  url: ""
+- certificate_url: media/greatmember.jpg
+  date_end: ""
+  date_start: "2015-05-14"
+  description: 厅局级奖项
+  organization: 中国人民解放军73151部队团委
+  organization_url: 
+  title: 旅优秀共青团员
+  url: ""
+- certificate_url: media/greatsoldier.jpg
+  date_end: ""
+  date_start: "2014-11-14"
+  description: 厅局级奖项
+  organization: 中国人民解放军73151部队
+  organization_url: 
+  title: 优秀士兵
+  url: ""
 ---
