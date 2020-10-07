@@ -14,7 +14,7 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 <<<<<<< HEAD
-theme = "Classic"
+theme = "minimal"
 =======
 theme = "minimal"
 >>>>>>> parent of a1aa697... Update params.toml
