@@ -25,7 +25,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["100px", "0", "100px", "0"]
+    padding: ["150px", "0", "150px", "0"]
 ---
 
 欢迎来到**顾天钦的主页** 。
