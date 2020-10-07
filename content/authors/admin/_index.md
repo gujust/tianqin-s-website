@@ -74,4 +74,4 @@ user_groups:
 
 硕士期间共完成/待完成四项校立项基金项目，累计基金数额超过100万元。目前发表一篇论文，另有两篇论文待发表。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/cv.pdf" "newtab" >}}简历{{< /staticref >}}.
