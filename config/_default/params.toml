@@ -13,7 +13,11 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
+<<<<<<< HEAD
 theme = "Classic"
+=======
+theme = "minimal"
+>>>>>>> parent of a1aa697... Update params.toml
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -88,19 +92,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tianqinjustin@163.com"
-phone = "17721457079"
+email = "test@example.org"
+phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "风华路818号", city = "宁波市", region = "浙江省", postcode = "315211", country = "中国", country_code = "CH"}
+address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "29.9125", longitude = "121.63648"}
+coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "人文与传媒学院"
+directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 ############################
 ## Social
