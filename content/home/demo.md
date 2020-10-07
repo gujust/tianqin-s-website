@@ -25,7 +25,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["100px", "0", "100px", "0"]
 ---
 
 欢迎来到**顾天钦的主页** 。
@@ -35,15 +35,3 @@ design:
 希望您能在这里发现您对候选人所要求的**品质**和**能力**。
 
 **祝安好！**
-
--
-
--
-
--
-
--
-
--
-
--
