@@ -31,7 +31,9 @@ experience:
   date_start: "2019-09-01"
   description: |-
     GPA：4.02/5（共27学分）
+    
     学业导师：庞菊爱（宁波大学人文与传媒学院副教授）
+    
     校外导师：黄丽媛（清博大数据副总裁）
   location: 浙江·宁波
   title: 硕士研究生
