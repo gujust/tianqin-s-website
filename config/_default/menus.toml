@@ -6,22 +6,22 @@
 [[main]]
   name = "主页"
   url = "#about"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "个人奖项及证书"
   url = "#accomplishments"
-  weight = 20
+  weight = 50
 
 [[main]]
   name = "个人项目"
   url = "#projects"
-  weight = 30
+  weight = 65
 
-[[main]]
-  name = "科研作品"
-  url = "#featured"
-  weight = 40
+#[[main]]
+#  name = "科研作品"
+#  url = "#publications"
+#  weight = 40
 
 #[[main]]
 #  name = "Courses"
@@ -31,7 +31,7 @@
 [[main]]
   name = "联系方式"
   url = "#contact"
-  weight = 50
+  weight = 130
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
