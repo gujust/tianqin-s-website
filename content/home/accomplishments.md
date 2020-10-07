@@ -27,11 +27,11 @@ date_format: Jan 2006
 item:
 - certificate_url: media/debate.jpg
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2018-05-29"
   description: ""
-  organization: Coursera
+  organization: 上海市公共关系协会；上海市教育委员会；共青团上海市委员会
   organization_url: media/debate.jpg
-  title: Neural Networks and Deep Learning
+  title: 2018年度上海高校公共关系学专业学生团体辩论赛第一名
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
