@@ -31,22 +31,18 @@ experience:
   date_start: "2019-09-01"
   description: |-
     GPA：4.02/5（共27学分）
-    
     学业导师：庞菊爱（宁波大学人文与传媒学院副教授）
-    
     校外导师：黄丽媛（清博大数据副总裁）
   location: 浙江·宁波
   title: 硕士研究生
-- company: 宁波大学2
-  company_url: "http://www.nbu.edu.cn/"
-  date_end: "2026-06-30"
-  date_start: "2029-09-01"
+- company: 上海第二工业大学
+  company_url: "http://www.sspu.edu.cn/"
+  date_end: "2015-09-30"
+  date_start: "2019-06-30"
   description: |-
     GPA：4.02/5（共27学分）
-    
     学业导师：庞菊爱（宁波大学人文与传媒学院副教授）
-    
     校外导师：黄丽媛（清博大数据副总裁）
-  location: 浙江·宁波
-  title: 硕士研究生
+  location: 上海·浦东
+  title: 本科生
 ---
