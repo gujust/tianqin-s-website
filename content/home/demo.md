@@ -12,13 +12,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: 欢迎来到顾天钦的主页
+title: 顾天钦的在线主页
 subtitle:
 
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+    image: headers/self-wide.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
@@ -28,16 +28,19 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **resumé template** for Academic.
+欢迎来到**顾天钦的主页** 。
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
+请您尽情探索，希望您能在这里发现您对候选人所要求的**品质**和**能力**。
 
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
+**祝安好！**
+#[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+#**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+#**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
 
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+#{{% alert note %}}
+#This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+#
+#Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+#{{% /alert %}}
