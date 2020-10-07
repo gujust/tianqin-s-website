@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - certificate_url: media/debate.jpg
   date_end: ""
-  date_start: "2018-05-29"
+  date_start: "2019-05-29"
   description: 省部级专业竞赛
   organization: 上海市公共关系协会；上海市教育委员会；共青团上海市委员会
   organization_url: 
@@ -43,7 +43,7 @@ item:
   url: 
 - certificate_url: media/7th1st.jpg
   date_end: ""
-  date_start: "2017-09-22"
+  date_start: "2019-09-22"
   description: 国家级专业竞赛
   organization: 中国大学生公共关系策划创业大赛组委会
   organization_url: http://cusprpc2019.cipra.org.cn/
