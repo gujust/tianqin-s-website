@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: 顾天钦的在线主页
+title: 您好！
 subtitle:
 
 design:
