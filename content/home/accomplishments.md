@@ -49,7 +49,7 @@ item:
   organization_url: http://cusprpc2019.cipra.org.cn/
   title: 第七届中国大学生公共关系策划创业大赛一等奖
   url: ""
-  - certificate_url: media/7th1st.jpg
+  - certificate_url: media/specialprize.jpg
   date_end: ""
   date_start: "2018-06-14"
   description: 省部级专业竞赛
