@@ -7,7 +7,7 @@ tags:
 date: "2018-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://mp.weixin.qq.com/s/ypaLfa9UmNriYIhpaNdvfw"
+external_link: "http://www.sspu.edu.cn/hjxw/62017.htm"
 
 image:
   caption: Photo by unknown
