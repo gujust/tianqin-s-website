@@ -19,7 +19,7 @@
   weight = 65
 
 [[main]]
-  name = "科研作品"
+  name = "科研项目"
   url = "#publications"
   weight = 90
 
