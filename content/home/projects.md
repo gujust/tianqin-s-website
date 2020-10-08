@@ -30,6 +30,10 @@ subtitle = ""
     tag = "contest"
 
   [[content.filter_button]]
+    name = "科研项目"
+    tag = "academic"
+
+  [[content.filter_button]]
     name = "其他"
     tag = "others"
     
