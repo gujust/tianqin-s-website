@@ -1,5 +1,5 @@
 ---
-title: 科研项目
+title: 科研论文
 
 # View.
 #   1 = List
