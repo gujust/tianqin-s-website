@@ -25,7 +25,7 @@ publication_short: ""
 abstract: 传播内容和传播形式能够作用于政务短视频的影响力，得到研究者们的广泛认可，但是视频生产过程中生产者选择的视频时间参数是否会影响政务短视频的影响力，目前还没有学者开展深入的研究。通过建立卫健类政务短视频的参数编码表，以数据爬取、清洗、分析和可视化等为手段，对卫健类政务短视频的各项时间参数与其影响力之间的相关性进行假设检验后发现，视频长度和视频天发布时间与视频影响力之间存在显著相关性，即视频时长越长越可能获取更高的影响力，并且在晚上18点、21点和23点发布的视频更有可能影响到受众。视频周发布时间与视频影响力之间的相关性不显著。
 
 # Summary. An optional shortened abstract.
-summary: 传播内容和传播形式能够作用于政务短视频的影响力，得到研究者们的广泛认可，但是视频生产过程中生产者选择的视频时间参数是否会影响政务短视频的影响力，目前还没有学者开展深入的研究。通过建立卫健类政务短视频的参数编码表，以数据爬取、清洗、分析和可视化等为手段，对卫健类政务短视频的各项时间参数与其影响力之间的相关性进行假设检验后发现，视频长度和视频天发布时间与视频影响力之间存在显著相关性，即视频时长越长越可能获取更高的影响力，并且在晚上18点、21点和23点发布的视频更有可能影响到受众。视频周发布时间与视频影响力之间的相关性不显著。
+summary: 通过建立卫健类政务短视频的参数编码表，以数据爬取、清洗、分析和可视化等为手段，对卫健类政务短视频的各项时间参数与其影响力之间的相关性进行假设检验后发现相关结论。
 
 tags:
 - 政务短视频
@@ -39,19 +39,19 @@ featured: false
 #   url: ""
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
