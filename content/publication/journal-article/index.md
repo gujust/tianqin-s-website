@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: 卫健类政务短视频的时间影响因素实证分析——以高排行卫健类政务抖音号为例
 authors:
 - admin
-- Robert Ford
+- 羊晚成
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "第一作者"
+- "通讯作者"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +19,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*中国传媒报告*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 传播内容和传播形式能够作用于政务短视频的影响力，得到研究者们的广泛认可，但是视频生产过程中生产者选择的视频时间参数是否会影响政务短视频的影响力，目前还没有学者开展深入的研究。通过建立卫健类政务短视频的参数编码表，以数据爬取、清洗、分析和可视化等为手段，对卫健类政务短视频的各项时间参数与其影响力之间的相关性进行假设检验后发现，视频长度和视频天发布时间与视频影响力之间存在显著相关性，即视频时长越长越可能获取更高的影响力，并且在晚上18点、21点和23点发布的视频更有可能影响到受众。视频周发布时间与视频影响力之间的相关性不显著。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 传播内容和传播形式能够作用于政务短视频的影响力，得到研究者们的广泛认可，但是视频生产过程中生产者选择的视频时间参数是否会影响政务短视频的影响力，目前还没有学者开展深入的研究。通过建立卫健类政务短视频的参数编码表，以数据爬取、清洗、分析和可视化等为手段，对卫健类政务短视频的各项时间参数与其影响力之间的相关性进行假设检验后发现，视频长度和视频天发布时间与视频影响力之间存在显著相关性，即视频时长越长越可能获取更高的影响力，并且在晚上18点、21点和23点发布的视频更有可能影响到受众。视频周发布时间与视频影响力之间的相关性不显著。
 
 tags:
-- Source Themes
+- 政务短视频
+- 社交媒体
+- 政务抖音号
+- 政务新媒体
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
