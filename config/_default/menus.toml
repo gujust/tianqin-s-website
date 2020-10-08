@@ -18,10 +18,10 @@
   url = "#projects"
   weight = 65
 
-#[[main]]
-#  name = "科研作品"
-#  url = "#publications"
-#  weight = 40
+[[main]]
+  name = "科研作品"
+  url = "#publications"
+  weight = 90
 
 #[[main]]
 #  name = "Courses"
