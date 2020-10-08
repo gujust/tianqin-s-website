@@ -1,5 +1,5 @@
 ---
-title: 科研论文
+title: 个人论文
 
 # View.
 #   1 = List
