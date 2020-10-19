@@ -26,7 +26,6 @@ abstract: 传播内容和传播形式能够作用于政务短视频的影响力�
 
 # Summary. An optional shortened abstract.
 summary: 通过建立卫健类政务短视频的参数编码表，以数据爬取、清洗、分析和可视化等为手段，对卫健类政务短视频的各项时间参数与其影响力之间的相关性进行假设检验后发现相关结论。
-The content and form of communication can affect the influence of government affair short video, which has been widely recognized by researchers. However, whether the video time parameters selected by producers in the process of video production will affect the influence of government short video, no scholars have carried out in-depth research. Through the establishment of the parameter coding table of health government affair short video, and using data crawling, cleaning, analysis, and visualization, the correlation between the time parameters of health affair government short video and its influence is tested. It is found that the video length and the video daily distribution time had a close correlation to the video influence, that is, the longer the video duration, the more likely it is to obtain the video higher impact, and videos released at 6, 9, and 11 p.m. are more likely to affect audiences. There was no significant correlation between the week release time of video and the influence of video.
 
 tags:
 - 政务短视频
