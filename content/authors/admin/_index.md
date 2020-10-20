@@ -17,19 +17,19 @@ organizations:
 bio: 我的研究兴趣主要聚焦在整合营销传播和新媒体与消费主义。
 
 # Interests to show in About widget
-interests:
-- Integrated marketing communication
-- New media and consumerism
+#interests:
+#- Integrated marketing communication
+#- New media and consumerism
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Master of Journalism and Communication
-    institution: Ningbo University
-    year: 2019-2022
-  - course: Bachelor of Science in Management
-    institution: Shanghai Polytechnic University
-    year: 2015-2019
+#education:
+#  courses:
+#  - course: Master of Journalism and Communication
+#    institution: Ningbo University
+#    year: 2019-2022
+#  - course: Bachelor of Science in Management
+#    institution: Shanghai Polytechnic University
+#    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
