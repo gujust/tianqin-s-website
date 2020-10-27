@@ -27,8 +27,6 @@ abstract: 传播内容和传播形式能够作用于政务短视频的影响力�
 # Summary. An optional shortened abstract.
 summary: 通过建立卫健类政务短视频的参数编码表，以数据爬取、清洗、分析和可视化等为手段，对卫健类政务短视频的各项时间参数与其影响力之间的相关性进行假设检验后发现相关结论。
 
-{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/cv.pdf" "newtab" >}}简历{{< /staticref >}}.
-
 tags:
 - 政务短视频
 - 社交媒体
