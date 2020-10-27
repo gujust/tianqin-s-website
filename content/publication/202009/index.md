@@ -1,5 +1,5 @@
 ---
-title: 卫健类政务短视频的时间影响因素实证分析——以高排行卫健类政务抖音号为例{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/cv.pdf" "newtab" >}}简历{{< /staticref >}}.
+title: 卫健类政务短视频的时间影响因素实证分析——以高排行卫健类政务抖音号为例
 authors:
 - admin
 - 羊晚成
