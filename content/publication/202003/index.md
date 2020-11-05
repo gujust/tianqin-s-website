@@ -1,5 +1,5 @@
 ---
-title: 基于用户数据的整合营销传播理论应用流程探索
+title: 基于用户数据的IMC理论应用流程探索
 authors:
 - admin
 author_notes:
