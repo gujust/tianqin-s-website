@@ -6,7 +6,7 @@ tags:
 date: "2019-12-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://mp.weixin.qq.com/s/73_TvfqiSpWk7U-HEewTxQ
+external_link: https://mp.weixin.qq.com/s/wlUImu94CAGElxAAobsaBQ
 
 image:
   caption: Photo by unknown
