@@ -21,7 +21,7 @@
 [[main]]
   name = "个人论文"
   url = "#publications"
-  weight = 45
+  weight = 35
 
 #[[main]]
 #  name = "Courses"
