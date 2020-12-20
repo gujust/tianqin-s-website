@@ -113,4 +113,12 @@ item:
   organization_url: 
   title: 上海市优秀毕业生
   url: ""
+- certificate_url: media/zhechuan.jpg
+  date_end: ""
+  date_start: "2020-12-19"
+  description: 证书
+  organization: 浙江传媒学院
+  organization_url: 
+  title: 浙江传媒学院第五届研究生论坛三等奖
+  url: ""
 ---
