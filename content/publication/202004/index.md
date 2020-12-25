@@ -17,7 +17,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*传播力研究，2020(25):137-138.*"
+publication: "*传播力研究，2020(25):137-138*"
 publication_short: ""
 
 abstract: 在新媒体占据主流地位的时代背景下，目前整合营销传播理论应用过程中存在着洞察消费者的应用障碍。结合新媒体时代消费者偏好差异化的机遇，应当依据“理解消费者的元动机”、“洞察消费者的方法”和“策划营销内容”的应用流程洞察消费者。
