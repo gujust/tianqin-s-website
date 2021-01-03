@@ -121,28 +121,4 @@ item:
   organization_url: 
   title: 浙江传媒学院第五届研究生论坛三等奖
   url: ""
-- certificate_url: media/shehuishijian.pdf
-  date_end: ""
-  date_start: "2020-10-19"
-  description: 校级奖项
-  organization: 宁波大学
-  organization_url: 
-  title: 宁波大学暑期社会实践校级先进个人
-  url: ""
-- certificate_url: media/zhanyi.pdf
-  date_end: ""
-  date_start: "2020-9-19"
-  description: 校级奖项
-  organization: 宁波大学团委
-  organization_url: 
-  title: 宁波大学共青团战“疫”先锋团员
-  url: ""
-- certificate_url: media/youxiutuanyuan.jpg
-  date_end: ""
-  date_start: "2020-12-19"
-  description: 校级奖项
-  organization: 宁波大学团委
-  organization_url: 
-  title: 宁波大学优秀团员
-  url: ""
 ---
