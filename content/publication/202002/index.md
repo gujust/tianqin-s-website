@@ -1,14 +1,14 @@
 ---
-title: 鬼畜视频内容的伦理失范与对策建构
-authors:
+#title: 鬼畜视频内容的伦理失范与对策建构
+#authors:
 - admin
-author_notes:
+#author_notes:
 - "独立作者"
-date: "2020-02-01T00:00:00Z"
+#date: "2020-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-02-01T00:00:00Z"
+#publishDate: "2020-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
