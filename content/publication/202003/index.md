@@ -6,7 +6,7 @@ author_notes:
 - "独立作者"
 date: "2021-01-01T00:00:00Z"
 doi: ""
-{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/cv.pdf" "newtab" >}}简历{{< /staticref >}}.
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-01T00:00:00Z"
 
