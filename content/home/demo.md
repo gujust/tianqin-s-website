@@ -19,13 +19,13 @@ design:
   columns: "1"
   background:
     image: headers/self-wide.jpg
-    image_darken: 0.6
+    image_darken: 0.5
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["170px", "0", "170px", "0"]
+    padding: ["180px", "0", "180px", "0"]
     #这是下面文字的边框宽度设置
 ---
 
