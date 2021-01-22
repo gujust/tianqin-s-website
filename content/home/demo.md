@@ -25,7 +25,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["180px", "0", "180px", "0"]
+    padding: ["170px", "0", "170px", "0"]
     #这是下面文字的边框宽度设置
 ---
 
