@@ -20,10 +20,10 @@ publication_types: ["2"]
 publication: "*新闻传播，已录用，2021年8月刊出.*"
 publication_short: ""
 
-abstract: 暂不能公布
+abstract: 暂不公布
 
 # Summary. An optional shortened abstract.
-summary: 暂不能公布
+summary: 暂不公布
 
 tags:
 - 鬼畜视频
