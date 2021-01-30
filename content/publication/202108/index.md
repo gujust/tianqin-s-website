@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'media/guichu.jpg'
+url_pdf: 'media/ethic.jpg'
 url_code: ''
 url_dataset: ''
 url_poster: ''
