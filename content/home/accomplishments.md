@@ -124,7 +124,7 @@ item:
 - certificate_url: media/tuanzhibu.jpg
   date_end: ""
   date_start: "2020-12-23"
-  description: 省部级奖项
+  description: 省部级奖项-团体荣誉
   organization: 浙江省大中学生校园文化节组委会
   organization_url: 
   title: 浙江省高校优秀团支部
