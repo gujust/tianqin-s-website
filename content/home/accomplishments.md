@@ -121,4 +121,12 @@ item:
   organization_url: 
   title: 浙江传媒学院第五届研究生论坛三等奖
   url: ""
+- certificate_url: media/tuanzhibu.jpg
+  date_end: ""
+  date_start: "2020-12-23"
+  description: 证书
+  organization: 浙江省大中学生校园文化节组委会
+  organization_url: 
+  title: 全省高校优秀团支部
+  url: ""
 ---
