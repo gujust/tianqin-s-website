@@ -131,7 +131,7 @@ item:
   url: ""
 - certificate_url: media/scholarship.jpg
   date_end: ""
-  date_start: "2020-12-01"
+  date_start: "2020-12-21"
   description: 厅局级奖项
   organization: 宁波大学
   organization_url: 
