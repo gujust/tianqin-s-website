@@ -129,4 +129,12 @@ item:
   organization_url: 
   title: 浙江省高校优秀团支部
   url: ""
+- certificate_url: media/scholarship.jpg
+  date_end: ""
+  date_start: "2020-12-01"
+  description: 厅局级奖项
+  organization: 宁波大学
+  organization_url: 
+  title: 宁波大学研究生学业奖学金一等奖
+  url: ""
 ---
