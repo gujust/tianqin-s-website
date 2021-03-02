@@ -143,6 +143,6 @@ item:
   description: 校级奖项
   organization: 共青团宁波大学委员会
   organization_url: 
-  title: 战“疫”先锋团员
+  title: 战疫先锋团员
   url: ""
 ---
