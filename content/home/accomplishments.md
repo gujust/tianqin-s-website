@@ -137,12 +137,4 @@ item:
   organization_url: 
   title: 宁波大学研究生学业奖学金一等奖
   url: ""
-- certificate_url: media/zhanyi.jpg
-  date_end: ""
-  date_start: "2020-9-23"
-  description: 省部级奖项-团体荣誉
-  organization: 浙江省aa大中学生校园文化节组委会
-  organization_url: 
-  title: 浙江省aa高校优秀团支部
-  url: ""
 ---
