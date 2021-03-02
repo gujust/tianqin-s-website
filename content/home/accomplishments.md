@@ -139,10 +139,10 @@ item:
   url: ""
 - certificate_url: media/zhanyi.jpg
   date_end: ""
-  date_start: "2020-9-21"
-  description: 校级奖项
-  organization: 共青团宁波大学委员会
+  date_start: "2020-9-23"
+  description: 省部级奖项-团体荣誉
+  organization: 浙江省aa大中学生校园文化节组委会
   organization_url: 
-  title: 战疫先锋团员
+  title: 浙江省aa高校优秀团支部
   url: ""
 ---
