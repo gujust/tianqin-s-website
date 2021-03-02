@@ -137,11 +137,11 @@ item:
   organization_url: 
   title: 宁波大学研究生学业奖学金一等奖
   url: ""
-- certificate_url: media/xianfeng.jpg
+- certificate_url: media/zhanyi.jpg
   date_end: ""
   date_start: "2020-9-21"
   description: 校级奖项
-  organization: 宁波大学团委
+  organization: 共青团宁波大学委员会
   organization_url: 
   title: 战疫先锋团员
   url: ""
