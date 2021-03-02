@@ -69,7 +69,7 @@ item:
   date_end: ""
   date_start: "2015-05-14"
   description: 厅局级奖项
-  organization: 中国人民解放军73151部队团委
+  organization: 共青团中国人民解放军73151部队委员会
   organization_url: 
   title: 旅优秀共青团员
   url: ""
