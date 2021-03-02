@@ -141,7 +141,7 @@ item:
   date_end: ""
   date_start: "2020-9-21"
   description: 校级奖项
-  organization: 共青团宁波大学委员会
+  organization: 宁波大学团委
   organization_url: 
   title: 战疫先锋团员
   url: ""
