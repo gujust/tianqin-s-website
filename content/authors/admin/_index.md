@@ -14,7 +14,7 @@ organizations:
   url: "http://rwcm.nbu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究兴趣主要聚焦在整合营销传播、政府公共关系和短视频传播。
+bio: 我的研究兴趣主要聚焦在短视频传播、整合营销传播和政府公共关系。
 
 # Interests to show in About widget
 #interests:
