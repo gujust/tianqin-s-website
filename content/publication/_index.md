@@ -6,7 +6,7 @@ title: 个人论文
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 2
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
 header:
