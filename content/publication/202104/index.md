@@ -19,13 +19,13 @@ publishDate: "2020-04-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*xxxx*"
+publication: "*Communication & Education Review*"
 publication_short: ""
 
-abstract: xxxxx
+abstract: By using the content analysis method, establishing the content-coding table of China-related reports on Vietnam’s mainstream media, and using data crawling, translation, analysis, and visualization as a means, the content of these reports is analyzed from four dimensions: length, theme, tendency, and text sentiment value. It is found that China-related reports on Vietnam's mainstream media show five characteristics: Vietnam's mainstream media focus on the economic theme. The reports are flat in the distribution of the theme. Neutral tendency reports are the mainstream. The reports commonly use the positive framework to report content. Positive reports are pretty short, and negative reports are much longer.
 
 # Summary. An optional shortened abstract.
-summary: xxx
+summary: By using the content analysis method, establishing the content-coding table of China-related reports on Vietnam’s mainstream media, and using data crawling, translation, analysis, and visualization as a means, the content of these reports is analyzed from four dimensions: length, theme, tendency, and text sentiment value. It is found that China-related reports on Vietnam's mainstream media show five characteristics: Vietnam's mainstream media focus on the economic theme. The reports are flat in the distribution of the theme. Neutral tendency reports are the mainstream. The reports commonly use the positive framework to report content. Positive reports are pretty short, and negative reports are much longer.
 
 tags:
 - xxx
