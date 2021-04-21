@@ -1,8 +1,8 @@
 ---
-title: Empirical Research on Vietnam's China-related Reports under the Background of the Belt and Road: Content Analysis Based on Mainstream Media Reports in Vietnam
+title: EMPERICAL
 authors:
 - admin
-- 赵婷
+- ZT
 author_notes:
 - "第一作者"
 - "第二作者"
@@ -19,18 +19,19 @@ publishDate: "2020-04-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Communication & Education Review*"
+publication: "*xxxx*"
 publication_short: ""
 
-abstract: By using the content analysis method, establishing the content-coding table of China-related reports on Vietnam’s mainstream media, and using data crawling, translation, analysis, and visualization as a means, the content of these reports is analyzed from four dimensions: length, theme, tendency, and text sentiment value. It is found that China-related reports on Vietnam's mainstream media show five characteristics: Vietnam's mainstream media focus on the economic theme. The reports are flat in the distribution of the theme. Neutral tendency reports are the mainstream. The reports commonly use the positive framework to report content. Positive reports are pretty short, and negative reports are much longer.
+abstract: xxxxx
 
 # Summary. An optional shortened abstract.
-summary: By using the content analysis method, establishing the content-coding table of China-related reports on Vietnam’s mainstream media, and using data crawling, translation, analysis, and visualization as a means, the content of these reports is analyzed from four dimensions: length, theme, tendency, and text sentiment value. It is found that China-related reports on Vietnam's mainstream media show five characteristics: Vietnam's mainstream media focus on the economic theme. The reports are flat in the distribution of the theme. Neutral tendency reports are the mainstream. The reports commonly use the positive framework to report content. Positive reports are pretty short, and negative reports are much longer.
+summary: xxx
 
 tags:
-- Content Analysis
-- Vietnam
-- The Belt and Road
+- xxx
+- xxx
+- xxx
+- xxx
 featured: false
 
 # links:
