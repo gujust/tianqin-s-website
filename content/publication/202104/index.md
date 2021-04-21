@@ -1,5 +1,5 @@
 ---
-title: Empirical Research on Vietnam's China-related Reports under the Background of the Belt and Road: Content Analysis Based on Mainstream Media Reports in Vietnam
+title: Empirical Research on Vietnam's China-related Reports under the Background of the Belt and Road
 authors:
 - admin
 - 赵婷
