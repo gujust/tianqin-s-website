@@ -1,8 +1,8 @@
 ---
-title: EMPERICAL
+title: Empirical Research on Vietnam's China-related Reports under the Background of the Belt and Road
 authors:
 - admin
-- ZT
+- 赵婷
 author_notes:
 - "第一作者"
 - "第二作者"
