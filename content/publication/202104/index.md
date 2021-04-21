@@ -19,7 +19,7 @@ publishDate: "2020-04-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*xxxx*"
+publication: "*Communication & Education Review*"
 publication_short: ""
 
 abstract: xxxxx
