@@ -2,9 +2,10 @@
 title: Empirical Research on Vietnam's China-related Reports under the Background of the Belt and Road: Content Analysis Based on Mainstream Media Reports in Vietnam
 authors:
 - admin
+- 赵婷
 author_notes:
 - "第一作者"
-date: "2021-01-27T00:00:00Z"
+date: "2021-04-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
