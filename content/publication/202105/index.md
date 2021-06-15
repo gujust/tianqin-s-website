@@ -1,5 +1,5 @@
 ---
-title: Empirical Research on Vietnam's China-related Reports under the Background of the Belt and Road
+title: 大学生拒绝消费表情包影响因素研究——基于创新抵制理论
 authors:
 - 郑东和
 - 孟艳芳
