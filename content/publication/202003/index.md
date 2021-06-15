@@ -3,7 +3,7 @@ title: 基于用户数据的IMC理论应用流程探索
 authors:
 - admin
 author_notes:
-- "独立作者"
+- "宁波大学人文与传媒学院硕士研究生"
 date: "2021-01-01T00:00:00Z"
 doi: ""
 
