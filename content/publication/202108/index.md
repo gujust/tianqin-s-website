@@ -3,7 +3,7 @@ title: 鬼畜视频内容的伦理失范与对策建构
 authors:
 - admin
 author_notes:
-- "独立作者"
+- "宁波大学人文与传媒学院硕士研究生"
 date: "2021-06-10T00:00:00Z"
 doi: ""
 
