@@ -145,7 +145,7 @@ item:
   organization_url: 
   title: 宁波大学战“疫”先锋团员
   url: ""
-- certificate_url: media/mandarin.pdf
+- certificate_url: media/mandarin.jpg
   date_end: ""
   date_start: "2021-04-24"
   description: 证书
@@ -153,7 +153,7 @@ item:
   organization_url: 
   title: 普通话二级甲等证书
   url: ""
-- certificate_url: media/city.pdf
+- certificate_url: media/city.jpg
   date_end: ""
   date_start: "2021-05-01"
   description: 证书
