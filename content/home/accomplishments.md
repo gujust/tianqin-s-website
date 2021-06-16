@@ -145,4 +145,20 @@ item:
   organization_url: 
   title: 宁波大学战“疫”先锋团员
   url: ""
+- certificate_url: media/mandarin.pdf
+  date_end: ""
+  date_start: "2021-04-24"
+  description: 证书
+  organization: 浙江省语言文字工作委员会
+  organization_url: 
+  title: 普通话二级甲等证书
+  url: ""
+- certificate_url: media/city.pdf
+  date_end: ""
+  date_start: "2021-05-01"
+  description: 证书
+  organization: 中国传媒大学城市传播研究中心
+  organization_url: 
+  title: 城市品牌2021海外工作大师坊结业证书
+  url: ""
 ---
