@@ -97,14 +97,6 @@ item:
   organization_url: 
   title: 芬兰卡累利应用技术大学交流认定证书
   url: ""
-- certificate_url: media/chongqing.jpg
-  date_end: ""
-  date_start: "2020-07-14"
-  description: 证书
-  organization: 中国新闻史学会网络传播史研究委员会；重庆大学新闻学院
-  organization_url: 
-  title: 重庆大学网络与新媒体讲习班结业证书
-  url: ""
 - certificate_url: media/graduate.jpg
   date_end: ""
   date_start: "2019-06-14"
@@ -112,14 +104,6 @@ item:
   organization: 上海市教育委员会
   organization_url: 
   title: 上海市优秀毕业生
-  url: ""
-- certificate_url: media/zhechuan.jpg
-  date_end: ""
-  date_start: "2020-12-19"
-  description: 证书
-  organization: 浙江传媒学院
-  organization_url: 
-  title: 浙江传媒学院第五届研究生论坛三等奖
   url: ""
 - certificate_url: media/tuanzhibu.jpg
   date_end: ""
@@ -152,13 +136,5 @@ item:
   organization: 浙江省语言文字工作委员会
   organization_url: 
   title: 普通话二级甲等证书
-  url: ""
-- certificate_url: media/city.jpg
-  date_end: ""
-  date_start: "2021-05-01"
-  description: 证书
-  organization: 中国传媒大学城市传播研究中心
-  organization_url: 
-  title: 城市品牌2021海外工作大师坊结业证书
   url: ""
 ---
