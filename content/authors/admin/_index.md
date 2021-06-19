@@ -41,7 +41,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:tianqinjustin@163.com".
 - icon: weixin
   icon_pack: fab
-  link: https://weixin.com/
+  link: https://gutianqin.netlify.app/media/wechat.jpg
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
