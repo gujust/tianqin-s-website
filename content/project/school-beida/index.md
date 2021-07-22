@@ -11,4 +11,14 @@ external_link: https://mp.weixin.qq.com/s/HLSPaHafDYa5AmIfGrs8xA
 image:
   caption: Photo by unknown
   focal_point: Smart
+    
+  links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+url_pdf: media/beida.pdf
+#url_slides: ""
+#url_video: ""
 ---
