@@ -2,10 +2,10 @@
 name = "myfontset"
 
 # Optional Google font URL
-google_fonts = "family=Noto+Sans+SC"
+google_fonts = "Noto+Sans+SC:wght@700&family=Noto+Serif+SC"
 
 # Font families
 heading_font = "Noto Sans SC"
-body_font = "Noto Sans SC"
-nav_font = "Noto Sans SC"
+body_font = "Noto Serif SC"
+nav_font = "Noto Serif SC"
 mono_font = "Noto Sans SC"
