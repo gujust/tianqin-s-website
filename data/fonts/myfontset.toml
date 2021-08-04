@@ -1,0 +1,11 @@
+# Font style metadata
+name = "myfontset"
+
+# Optional Google font URL
+google_fonts = "family=ZCOOL+QingKe+HuangYou"
+
+# Font families
+heading_font = "ZCOOL QingKe HuangYou"
+body_font = "ZCOOL QingKe HuangYou"
+nav_font = "ZCOOL QingKe HuangYou"
+mono_font = "ZCOOL QingKe HuangYou"
