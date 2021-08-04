@@ -1,0 +1,11 @@
+# Font style metadata
+name = "ZQH"
+
+# Optional Google font URL
+google_fonts = "family=ZCOOL+QingKe+HuangYou"
+
+# Font families
+heading_font = "ZCOOL"
+body_font = "QingKe"
+nav_font = "QingKe"
+mono_font = "QingKe HuangYou"
