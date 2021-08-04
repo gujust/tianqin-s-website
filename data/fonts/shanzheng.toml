@@ -1,0 +1,11 @@
+# Font style metadata
+name = "shanzheng"
+
+# Optional Google font URL
+google_fonts = "family=Ma+Shan+Zheng"
+
+# Font families
+heading_font = "Ma Shan Zheng"
+body_font = "Ma Shan Zheng"
+nav_font = "Ma Shan Zheng"
+mono_font = "Ma Shan Zheng"
