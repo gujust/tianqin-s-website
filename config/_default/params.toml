@@ -97,7 +97,7 @@ address = {street = "风华路818号", city = "宁波市", region = "浙江省",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "29.9125", longitude = "121.63648"}
+coordinates = {latitude = "29.9124", longitude = "121.63648"}
 
 # Directions for visitors to locate you.
 directions = "人文与传媒学院"
