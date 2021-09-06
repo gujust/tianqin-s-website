@@ -137,4 +137,12 @@ item:
   organization_url: 
   title: 普通话二级甲等证书
   url: ""
+ - certificate_url: media/zuimei.jpg
+  date_end: ""
+  date_start: "2021-06-24"
+  description: 证书
+  organization: 中共宁波大学人文与传媒学院委员会
+  organization_url: 
+  title: 最美文院学子
+  url: ""
 ---
