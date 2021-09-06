@@ -143,6 +143,6 @@ item:
   description: 院级奖项
   organization: 中共宁波大学人文与传媒学院委员会
   organization_url: 
-  title: 最美文院学子
+  title: 宁波大学最美文院学子
   url: ""
 ---
