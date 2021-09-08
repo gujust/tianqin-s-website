@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: media/touchpoint.jpg
+url_pdf: media/touchpoint.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
