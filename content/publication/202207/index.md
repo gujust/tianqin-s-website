@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: media/rumor.jpg
+url_pdf: media/rumor.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
