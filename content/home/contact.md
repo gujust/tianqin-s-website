@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 160
+weight: 130
 
 title: 联系方式
 subtitle:
