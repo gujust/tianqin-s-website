@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 个人奖项及证书
+title: 奖项及证书
 subtitle:
 
 # Date format
