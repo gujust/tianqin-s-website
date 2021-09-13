@@ -40,7 +40,7 @@ image:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "talks-qca.pdf"
+url_slides: "media/talks-qca.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
