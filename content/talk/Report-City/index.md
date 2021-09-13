@@ -1,5 +1,5 @@
 ---
-title: 自说自话的城市官微
+title: 课程汇报：自说自话的城市官微
 event: 传播学研究方法
 event_url: 
 
