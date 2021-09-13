@@ -14,11 +14,6 @@
   weight = 50
 
 [[main]]
-  name = "项目"
-  url = "#projects"
-  weight = 91
-
-[[main]]
   name = "论文"
   url = "#publications"
   weight = 35
@@ -27,21 +22,25 @@
   name = "经历"
   url = "#experience"
   weight = 40
-
-[[main]]
-  name = "联系方式"
-  url = "#contact"
-  weight = 160
-
 [[main]]
   name = "课程"
   url = "#contact"
   weight = 70
 
 [[main]]
+  name = "项目"
+  url = "#projects"
+  weight = 90
+
+[[main]]
   name = "风采"
   url = "#contact"
-  weight = 150
+  weight = 120
+
+[[main]]
+  name = "联系方式"
+  url = "#contact"
+  weight = 130
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
