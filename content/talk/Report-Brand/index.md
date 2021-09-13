@@ -1,5 +1,5 @@
 ---
-title: 品牌研究综述
+title: 课程汇报：品牌研究综述
 event: 媒介经营与管理
 event_url: 
 
