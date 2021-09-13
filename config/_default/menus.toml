@@ -24,11 +24,6 @@
   weight = 40
 
 [[main]]
-  name = "课程"
-  url = "#talk"
-  weight = 70
-
-[[main]]
   name = "项目"
   url = "#projects"
   weight = 90
