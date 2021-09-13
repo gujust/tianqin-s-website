@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 71
 
 title: 课程
 subtitle:
