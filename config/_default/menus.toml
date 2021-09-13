@@ -31,12 +31,17 @@
 [[main]]
   name = "联系方式"
   url = "#contact"
-  weight = 130
+  weight = 160
 
 [[main]]
-  name = "联系方式"
+  name = "课程"
   url = "#contact"
   weight = 70
+
+[[main]]
+  name = "风采"
+  url = "#contact"
+  weight = 150
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
