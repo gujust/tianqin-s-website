@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 100
 
 title: 奖项及证书
 subtitle:
