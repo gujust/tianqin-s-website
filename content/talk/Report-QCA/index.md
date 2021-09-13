@@ -40,7 +40,7 @@ image:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "media/talks-ad1.pdf"
+url_slides: "talks-qca.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -63,5 +63,5 @@ math: true
 ---
 
 {{% alert note %}}
-点击 **Slides** 按钮查看课程详情。
+点击 **Slides** 按钮查看汇报详情。
 {{% /alert %}}
