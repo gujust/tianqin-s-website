@@ -1,5 +1,5 @@
 ---
-title: QCA方法介绍及其应用
+title: 沙龙主讲：QCA方法介绍及其应用
 event: 学科沙龙
 event_url: 
 
