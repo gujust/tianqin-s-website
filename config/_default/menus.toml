@@ -26,7 +26,7 @@
 [[main]]
   name = "课程"
   url = "#talk"
-  weight = 70
+  weight = 71
 
 [[main]]
   name = "项目"
