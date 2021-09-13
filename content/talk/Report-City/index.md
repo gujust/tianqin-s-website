@@ -11,8 +11,8 @@ address:
   postcode: '315211'
   country: 中国
 
-summary: 课程汇报，介绍论文中内容分析方法。
-abstract: "内容分析方法。"
+summary: 课程汇报，介绍论文中的抽样方法和内容分析方法。
+abstract: "介绍论文中的抽样方法和内容分析方法。"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
