@@ -12,7 +12,7 @@ address:
   country: 中国
 
 summary: 介绍数字广告的现状与发展，由此引出对数字广告实践知识和技能的要求。
-abstract: "数字广告的定义、背景与特征、现状和发展"
+abstract: "数字广告的定义、背景与特征、现状和发展。"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
