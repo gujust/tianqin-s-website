@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 个人经历
+title: 经历
 subtitle:
 
 # Date format
