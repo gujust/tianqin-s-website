@@ -24,7 +24,7 @@
   weight = 40
 [[main]]
   name = "课程"
-  url = "#contact"
+  url = "#talk"
   weight = 70
 
 [[main]]
@@ -34,7 +34,7 @@
 
 [[main]]
   name = "风采"
-  url = "#contact"
+  url = "#gallery"
   weight = 120
 
 [[main]]
