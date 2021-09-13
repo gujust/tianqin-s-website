@@ -11,7 +11,7 @@ address:
   postcode: '315211'
   country: 中国
 
-summary: 介绍数字广告的现状与发展，由此引出对数字广告实践知识和技能的要求。
+summary: 宁波大学双创班数字广告实践课程第一讲，介绍数字广告的现状与发展，由此引出数字广告实践所需知识和技能。
 abstract: "数字广告的定义、背景与特征、现状和发展。"
 
 # Talk start and end times.
