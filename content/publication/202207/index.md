@@ -19,13 +19,13 @@ publishDate: "2021-08-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*新闻传播，已录用，2022年7月刊出."
+publication: "*新闻传播，已录用，2022年7月刊出"
 publication_short: ""
 
 abstract: 谣言作为古已有之的概念，随着网络的快速发展给国家治理体系和国家治理能力的现代化带来挑战。本研究使用CiteSpace对20年来谣言领域的CSSCI文献进行知识图谱分析，梳理了该领域的学科来源、重要期刊、重要作者和重要文献，分析了该领域的主要议题、研究视角和研究方法。通过分析发现，技术治理视角、专业性议题分类研究和跨学科合作是中国谣言研究领域未来可以努力的方向。
 
 # Summary. An optional shortened abstract.
-summary: 谣言作为古已有之的概念，随着网络的快速发展给国家治理体系和国家治理能力的现代化带来挑战。本研究使用CiteSpace对20年来谣言领域的CSSCI文献进行知识图谱分析，梳理了该领域的学科来源、重要期刊、重要作者和重要文献，分析了该领域的主要议题、研究视角和研究方法。通过分析发现，技术治理视角、专业性议题分类研究和跨学科合作是中国谣言研究领域未来可以努力的方向。
+summary: 
 
 tags:
 - 谣言
