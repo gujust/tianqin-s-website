@@ -24,7 +24,7 @@
   weight = 40
 [[main]]
   name = "课程"
-  url = "#talk"
+  url = "#talks"
   weight = 70
 
 [[main]]
