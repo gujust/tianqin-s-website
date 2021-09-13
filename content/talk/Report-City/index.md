@@ -1,5 +1,5 @@
 ---
-title: "自说自话"的城市官微
+title: 自说自话的城市官微
 event: 传播学研究方法
 event_url: 
 
@@ -16,8 +16,8 @@ abstract: "介绍论文中的抽样方法和内容分析方法。"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-13T13:00:00Z"
-date_end: "2019-11-13T15:00:00Z"
+date: "2019-11-03T13:00:00Z"
+date_end: "2021-11-03T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
