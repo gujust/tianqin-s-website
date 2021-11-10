@@ -145,4 +145,20 @@ item:
   organization_url: 
   title: 宁波大学最美文院学子
   url: ""
+- certificate_url: media/chengguo.pdf
+  date_end: ""
+  date_start: "2021-11-11"
+  description: 省部级奖项
+  organization: 浙江省研究生教育学会
+  organization_url: 
+  title: 浙江省专业学位研究生优秀实践成果
+  url: ""
+- certificate_url: media/sanhao.pdf
+  date_end: ""
+  date_start: "2021-11-10"
+  description: 校级奖项
+  organization: 宁波大学
+  organization_url: 
+  title: 三好研究生
+  url: ""
 ---
