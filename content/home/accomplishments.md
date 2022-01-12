@@ -153,12 +153,28 @@ item:
   organization_url: 
   title: 浙江省专业学位研究生优秀实践成果
   url: ""
-- certificate_url: media/sanhao.pdf
+- certificate_url: media/sanhao.jpg
   date_end: ""
   date_start: "2021-11-10"
   description: 校级奖项
   organization: 宁波大学
   organization_url: 
-  title: 三好研究生
+  title: 宁波大学三好研究生
+  url: ""
+- certificate_url: media/scholarship2.jpg
+  date_end: ""
+  date_start: "2021-12-10"
+  description: 校级奖项
+  organization: 宁波大学
+  organization_url: 
+  title: 宁波大学研究生学业奖学金一等奖
+  url: ""
+- certificate_url: media/tuangan.jpg
+  date_end: ""
+  date_start: "2021-12-11"
+  description: 校级奖项
+  organization: 宁波大学
+  organization_url: 
+  title: 宁波大学优秀团干部
   url: ""
 ---
