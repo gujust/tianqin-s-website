@@ -169,7 +169,7 @@ item:
   organization_url: 
   title: 宁波大学研究生学业奖学金一等奖
   url: ""
-- certificate_url: media/tuangan.jpg
+- certificate_url: media/zhejiangsheng.jpg
   date_end: ""
   date_start: "2021-12-09"
   description: 学会奖项
@@ -177,7 +177,7 @@ item:
   organization_url: 
   title: 2021年浙江省传播学年会论文三等奖
   url: ""
-- certificate_url: media/zhejiangsheng.jpg
+- certificate_url: media/tuangan.jpg
   date_end: ""
   date_start: "2021-11-10"
   description: 校级奖项
