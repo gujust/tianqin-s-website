@@ -28,7 +28,7 @@ item:
 - certificate_url: media/debate.jpg
   date_end: ""
   date_start: "2019-05-29"
-  description: 省部级奖项
+  description: 学会奖项
   organization: 上海市公共关系协会；上海市教育委员会；共青团上海市委员会
   organization_url: 
   title: 2018年度上海高校公共关系学专业学生团体辩论赛第一名
@@ -52,7 +52,7 @@ item:
 - certificate_url: media/specialprize.jpg
   date_end: ""
   date_start: "2018-06-14"
-  description: 省部级奖项
+  description: 学会奖项
   organization: 上海市公共关系协会；上海市教育委员会；共青团上海市委员会
   organization_url: 
   title: 2017年度上海高校公共关系学专业专项奖学金特等奖
@@ -148,7 +148,7 @@ item:
 - certificate_url: media/chengguo.pdf
   date_end: ""
   date_start: "2021-11-11"
-  description: 省部级奖项
+  description: 学会奖项
   organization: 浙江省研究生教育学会
   organization_url: 
   title: 浙江省专业学位研究生优秀实践成果
@@ -172,6 +172,14 @@ item:
 - certificate_url: media/tuangan.jpg
   date_end: ""
   date_start: "2021-12-11"
+  description: 学会奖项
+  organization: 浙江省传播学会
+  organization_url: 
+  title: 2021年浙江省传播学年会论文三等奖
+  url: ""
+- certificate_url: media/zhejiangsheng.jpg
+  date_end: ""
+  date_start: "2021-11-10"
   description: 校级奖项
   organization: 宁波大学
   organization_url: 
