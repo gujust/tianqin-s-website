@@ -185,4 +185,12 @@ item:
   organization_url: 
   title: 宁波大学优秀团干部
   url: ""
+- certificate_url: media/youxiubiyesheng.jpg
+  date_end: ""
+  date_start: "2022-05-10"
+  description: 省部级奖项
+  organization: 浙江省教育厅
+  organization_url: 
+  title: 浙江省优秀毕业生
+  url: ""
 ---
