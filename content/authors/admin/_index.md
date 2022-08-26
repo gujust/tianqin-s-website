@@ -6,12 +6,12 @@ title: 顾天钦
 superuser: true
 
 # Role/position/tagline
-role: 新闻与传播专业硕士
+role: 辅导员
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 宁波大学人文与传媒学院
-  url: "http://rwcm.nbu.edu.cn/"
+- name: 上海师范大学
+  url: "http://www.shnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 我的研究兴趣主要聚焦在短视频传播、整合营销传播和政府公共关系。
