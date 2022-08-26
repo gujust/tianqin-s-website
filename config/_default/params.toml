@@ -93,14 +93,14 @@ phone = "157 2140 2070"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "风华路818号", city = "宁波市", region = "浙江省", postcode = "315211", country = "中国", country_code = "CH"}
+address = {street = "桂林路100号", city = "徐汇区", region = "上海市", postcode = "200234", country = "中国", country_code = "CH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "29.9110", longitude = "121.63648"}
+coordinates = {latitude = "31.168926", longitude = "121.423371"}
 
 # Directions for visitors to locate you.
-directions = "人文与传媒学院"
+directions = "上海师范大学"
 
 ############################
 ## Social
